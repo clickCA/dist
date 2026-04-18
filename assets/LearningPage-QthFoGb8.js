@@ -1,0 +1,1 @@
+import{n as e,t}from"./react-core-OrPMYxb4.js";import{t as n}from"./LessonContent-D1wr0Gye.js";var r=e(),i=t();function a(){let e=(0,r.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,i.jsx)(n,{}),e[0]=t):t=e[0],t}export{a as LearnContentPage};
