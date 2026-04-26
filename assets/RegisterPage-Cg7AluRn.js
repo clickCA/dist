@@ -1,0 +1,1 @@
+import{t as e}from"./RegisterPage-BinGj0oz.js";export{e as default};

@@ -1,1 +1,0 @@
-import{n as e,t}from"./zustand-D9W4vKmC.js";var n=e()(t(e=>({user:null,setUser:t=>e({user:t})}),{name:`user-storage`}));export{n as t};

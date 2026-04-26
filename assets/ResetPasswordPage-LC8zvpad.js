@@ -1,0 +1,1 @@
+import{t as e}from"./ResetPasswordPage-GU6Tl1RW.js";export{e as default};
