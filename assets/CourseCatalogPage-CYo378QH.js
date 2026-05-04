@@ -1,1 +1,0 @@
-import{t as e}from"./CourseCatalogPage-BQyf3k_J.js";export{e as default};

@@ -1,1 +1,0 @@
-import{t as e}from"./CourseTable-Cf0SREMY.js";export{e as CourseTable,e as default};

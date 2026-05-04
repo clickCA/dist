@@ -1,0 +1,1 @@
+import{t as e}from"./InstructorDashboardPage-C1ZwxCLL.js";export{e as InstructorDashboardPage,e as default};

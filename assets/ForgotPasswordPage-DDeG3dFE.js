@@ -1,0 +1,1 @@
+import{t as e}from"./ForgotPasswordPage-DWtOBS3h.js";export{e as default};

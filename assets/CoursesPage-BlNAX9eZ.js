@@ -1,0 +1,1 @@
+import{t as e}from"./CoursesPage-Boguim6q.js";export{e as default};

@@ -1,0 +1,1 @@
+import{t as e}from"./CourseCatalogPage-L4-zzMef.js";export{e as default};
