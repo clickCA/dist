@@ -1,1 +1,0 @@
-import{t as e}from"./StarExamPage-BOqK4b0-.js";export{e as StarExamRoute,e as default};

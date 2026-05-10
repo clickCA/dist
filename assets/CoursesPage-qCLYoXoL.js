@@ -1,0 +1,1 @@
+import{t as e}from"./CoursesPage-BesBk2zb.js";export{e as default};
