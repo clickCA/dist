@@ -1,0 +1,1 @@
+import{t as e}from"./CourseCatalogPage-DDf_3u_r.js";export{e as default};

@@ -1,1 +1,0 @@
-import{t as e}from"./StudentManagementPage-BNtRiDkE.js";export{e as StudentManagementPage,e as default};
