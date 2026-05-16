@@ -1,1 +1,0 @@
-import{t as e}from"./CourseTable-CxPeaYK1.js";export{e as CourseTable,e as default};

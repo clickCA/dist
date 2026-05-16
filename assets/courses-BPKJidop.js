@@ -1,0 +1,1 @@
+import{n as e,t}from"./react-core-CDVZyv8g.js";import{a as n}from"./course-DEkjW67W.js";import{n as r}from"./layoutConstants-C3lc9h2a.js";var i=e(),a=t();function o(){let e=(0,i.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,a.jsx)(`div`,{className:r,children:(0,a.jsx)(n,{})}),e[0]=t):t=e[0],t}export{o as default};

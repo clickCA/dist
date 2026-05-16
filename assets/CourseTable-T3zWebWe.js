@@ -1,0 +1,1 @@
+import{t as e}from"./CourseTable-DSyxYxWN.js";export{e as CourseTable,e as default};
