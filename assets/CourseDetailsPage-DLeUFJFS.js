@@ -1,0 +1,1 @@
+import{t as e}from"./CourseDetailsPage-Bijcf6_o.js";export{e as default};

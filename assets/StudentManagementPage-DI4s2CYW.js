@@ -1,0 +1,1 @@
+import{t as e}from"./StudentManagementPage-C7YqlOZ9.js";export{e as StudentManagementPage,e as default};

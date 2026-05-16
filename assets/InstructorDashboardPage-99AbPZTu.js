@@ -1,0 +1,1 @@
+import{t as e}from"./InstructorDashboardPage-DaOE_GBa.js";export{e as InstructorDashboardPage,e as default};
