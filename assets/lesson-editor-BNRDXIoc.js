@@ -1,0 +1,1 @@
+import{n as e,t}from"./react-core-BywV1h4G.js";import{n,t as r}from"./lesson-Da-S403Z.js";var i=e(),a=t(),o=()=>{let e=(0,i.c)(2),{creatingLesson:t,creatingContent:o,creatingModuleContent:c}=n(),l=t||o||c,u;return e[0]===l?u=e[1]:(u=(0,a.jsx)(r,{onSave:s,isSaving:l,canSave:!0}),e[0]=l,e[1]=u),u};async function s(){}export{o as default};

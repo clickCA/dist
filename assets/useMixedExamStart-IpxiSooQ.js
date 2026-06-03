@@ -1,0 +1,1 @@
+import{n as e}from"./react-core-BywV1h4G.js";import{t}from"./react-query-DEAe0orC.js";import{b as n}from"./useStarredQuestionIds-CIr45dHK.js";var r=e(),i=()=>{let e=(0,r.c)(1),n;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(n={mutationFn:a},e[0]=n):n=e[0],t(n)};function a(e){return n(e)}export{i as t};

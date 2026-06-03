@@ -1,1 +1,0 @@
-import{n as e}from"./react-core-CDVZyv8g.js";import{n as t}from"./react-query-CVvV9b67.js";import{i as n,r}from"./useStarredQuestionIds-BM-ZFDff.js";var i=e(),a=()=>{let e=(0,i.c)(1),a;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(a={queryKey:n.questions(),queryFn:r,staleTime:6e4,refetchOnWindowFocus:!1},e[0]=a):a=e[0],t(a)};export{a as t};
