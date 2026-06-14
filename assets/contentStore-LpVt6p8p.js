@@ -1,0 +1,1 @@
+import{n as e}from"./zustand-DNICes0e.js";var t=e(e=>({shouldRefetch:!1,setShouldRefetch:t=>e({shouldRefetch:t})}));export{t};
