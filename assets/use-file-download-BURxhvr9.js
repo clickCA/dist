@@ -1,1 +1,0 @@
-import{n as e}from"./react-core-DJTOdx8O.js";import{t}from"./react-query-DU5vuMLf.js";import{h as n}from"./exam.api-D19nZf9z.js";var r=e();function i(){let e=(0,r.c)(1),n;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(n={mutationFn:a},e[0]=n):n=e[0],t(n)}async function a(e){let{downloadUrl:t}=await n(e);window.open(t,`_blank`)}export{i as t};
